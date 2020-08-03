@@ -1,0 +1,43 @@
+html {
+  font-family: cursive;
+  text-align: center;
+  color: #191549;
+
+ 
+}
+
+body {
+    color: #191549;
+      margin: 0 auto;
+  margin-top: 10%;
+  margin-bottom:0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  line-height: 20px;
+  border: 5px double #191549;
+ 
+}
+
+p {
+color: #191549;
+
+}
+
+h2 {
+color: #191549;
+ 
+}
+
+h1 {
+  color: #191549;
+  font-size: 75px;
+ 
+}
+
+IMG {
+  border-radius: 8px;
+
+padding-bottom: 50px;
+
+}
+
